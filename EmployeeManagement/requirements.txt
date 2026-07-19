@@ -1,0 +1,2 @@
+# No external dependencies — the project uses only Python standard library modules.
+# Python 3.10+ is required for the `X | Y` union type hint syntax.
